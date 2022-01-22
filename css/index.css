@@ -1,0 +1,97 @@
+header {
+    display: flex;
+    justify-content:space-between;
+    background-color: #0194FF;
+    padding: 20px 10px;
+    border-bottom: 10px solid black;
+}
+
+nav {
+    text-align: right;
+}
+
+img:hover {
+    transform: scale(1.03);
+}
+
+a {
+    display: inline-flex;
+    align-items: center;
+    color: #3a423a;
+    font-size: 20px;
+    font-family: Fira Code;
+    font-weight: 500;
+    text-decoration: none;
+    margin-right: 30px; 
+}
+
+a::before {
+     content: "";
+    background-color: #05FF00;
+    width: 10px;
+    height: 10px;
+    margin-right: 10px;
+}
+
+#button {
+    display: inline-block;
+    background-color: #2ACC27;
+    padding: 18px 20px;
+    margin-right:10px;
+    box-shadow: 5px 5px 0 black;
+    transition: transform 1.03;
+}
+
+#button:hover {
+    transform: scale(1.03);
+    color: #ffffff;
+}
+
+div {
+    display: flex;
+    position: absolute;
+    width: 627px;
+    height: 184px;
+    left: 89px;
+    top: 205px;
+
+    background-color: #3A4042;
+    box-shadow: 10px 10px black;
+
+}
+
+h1 {
+    display: flex;
+    position: absolute;
+    width: 440px;
+    height: 40px;
+    top: 42px;
+    bottom: 102px;
+    right: 97px;
+    left: 90px;
+
+    font-family: "Press Start 2P";
+    font-style: normal;
+    font-weight: normal;
+    font-size: 40px;
+    line-height: 40px;
+    color: #2ACC27;
+    text-shadow: 4px 4px black;
+}
+
+p {
+    display: flex;
+    position: absolute;
+    font-family: "Press Start 2P";
+    width: 540px;
+    height: 30px;
+    top: 110px;
+    bottom: 44px;
+    right: 47px;
+    left: 40px;
+
+    font-size: 30px;
+    line-height: 30px;
+    color:white;
+    text-shadow: 4px 4px black;
+}
