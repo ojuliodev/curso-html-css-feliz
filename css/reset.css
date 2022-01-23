@@ -1,9 +1,4 @@
-body{
-    margin: 0;
-}
-
-p, h1, div {
-
+body, .frontend, .texttitle, .juliocesartitle, div{
     margin: 0;
 }
 
