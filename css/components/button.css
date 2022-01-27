@@ -7,7 +7,7 @@
     box-shadow: 5px 5px 0 black;
     padding: 18px 20px;
     margin-right: 0px;
-    transition: transform 100ms;
+    transition: transform 50ms;
     text-decoration: none;
 }
 
