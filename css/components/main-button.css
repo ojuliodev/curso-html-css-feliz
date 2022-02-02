@@ -1,4 +1,4 @@
-.button {
+.main-button {
     display: inline-block;
     font-family: "Fira Code", sans-serif;
     background-color: #2ACC27;
@@ -11,7 +11,7 @@
     text-decoration: none;
 }
 
-.button:hover {
+.main-button:hover {
     transform: scale(1.02);
     color: #ffffff;
 }

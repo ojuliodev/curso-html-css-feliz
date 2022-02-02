@@ -1,8 +1,8 @@
-.img:hover {
+.main-icon:hover {
     transform: scale(1.03);
 }
 
-.action {
+.main-action {
     display: inline-flex;
     align-items: center;
     color: #3a423a;
@@ -14,12 +14,12 @@
     transition: transform 100ms;
 }
 
-.action:hover {
+.main-action:hover {
     transform: scale(1.03);
     color: white;
 }
 
-.action::before {
+.main-action::before {
     content: "";
     background-color: #05FF00;
     width: 10px;
