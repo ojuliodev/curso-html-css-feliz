@@ -4,3 +4,13 @@
     padding-top: 50px;
     padding-bottom: 100px;
 }
+
+.section .main-title {
+    margin-bottom: 60px
+}
+
+.section.-second {
+    width: 100%;
+    height: 530px;
+    background-color: #000;
+}

@@ -1,0 +1,17 @@
+.wrapper-projects {
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 50px;
+    margin-bottom: 100px;
+}
+
+.wrapper-projects .icon {
+    width: 280px;
+    height: 280px;
+    box-shadow: 10px 10px #fff;
+    object-fit: contain
+}
+
+.wrapper-projects .iconcollab {
+    background-color: #4C5B84;
+}
