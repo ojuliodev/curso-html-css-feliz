@@ -5,7 +5,14 @@
     border: 5px solid #000;
 }
 
-.main-progress-bar::-moz-progress-bar, 
 .main-progress-bar::-webkit-progress-bar {
+    background-color: #FFF;
+}
+
+.main-progress-bar::-moz-progress-bar {
+    background-color: #2ACC27;
+}
+
+.main-progress-bar::-webkit-progress-value {
     background-color: #2ACC27;
 }
