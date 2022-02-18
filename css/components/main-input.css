@@ -1,0 +1,14 @@
+.main-input {
+    box-sizing: border-box;
+    border: 5px solid #000;
+    width: 100%;
+    height: 50px;
+    font-size: 30px;
+    padding: 0 8px;
+}
+
+.main-input.-textarea {
+    height: 320px;
+    padding-top: 4px;
+    padding-bottom: 4px;
+}
