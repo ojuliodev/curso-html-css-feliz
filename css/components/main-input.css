@@ -5,6 +5,7 @@
     height: 50px;
     font-size: 30px;
     padding: 0 8px;
+    font-family: Roboto;
 }
 
 .main-input.-textarea {
