@@ -9,9 +9,9 @@
     content: '';
     box-sizing: border-box;
     height: 0px;
-    width: 40px;
-    border: 2.5px dashed #000;
-    transform: rotate(90deg) translateX(-62%);
+    width: 37px;
+    border: 2px dashed #000;
+    transform: rotate(90deg) translateX(-70%);
     position: absolute;
     bottom: 140px;
 }
