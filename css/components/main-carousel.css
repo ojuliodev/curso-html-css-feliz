@@ -50,5 +50,6 @@
 .main-carousel .elements {
     display: flex;
     justify-content: space-between;
-    transition: transform 300ms
+    transition: transform 300ms;
+    gap: 40px;
 }
